@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "014cdb7ded7ab00a",
+    "type": "split",
+    "children": [
+      {
+        "id": "413f9ef13ce12110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17f5b2378dcc648d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Diskrete Strukturen"
+            }
+          },
+          {
+            "id": "fd63dbed3f817933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graphen"
+            }
+          },
+          {
+            "id": "da0de6a171051f2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Erfüllbarkeit und Gültigkeit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Erfüllbarkeit und Gültigkeit"
+            }
+          },
+          {
+            "id": "0217ca2266d02fa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unendliche Mengen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Unendliche Mengen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "00781e696345c0ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d785312fbdc5fbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afb4ad254bdd7cd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e48a02f01478453b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "378202d92ea2c6e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9054200c86882920",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ea5497b3269c688",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "848681d1534e7be8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diskrete Strukturen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Diskrete Strukturen"
+            }
+          },
+          {
+            "id": "3222747768b4d68e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diskrete Strukturen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Diskrete Strukturen"
+            }
+          },
+          {
+            "id": "502b2b52eded5293",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9adeba7139434277",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diskrete Strukturen.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Diskrete Strukturen"
+            }
+          },
+          {
+            "id": "73b67a66123191c3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "17f5b2378dcc648d",
+  "lastOpenFiles": [
+    "GitHub",
+    "Beweise.md",
+    "Diskrete Strukturen.md",
+    "Folge.md",
+    "Relationen.md",
+    "Erfüllbarkeit und Gültigkeit.md",
+    "Graphen.md",
+    "Funktionen.md",
+    "Mengen.md",
+    "Untitled.canvas",
+    "Tupel.md",
+    "De Morgan'schen Regeln.md",
+    "Mengenoperationen.md",
+    "Pasted image 20241115195401.png",
+    "Pasted image 20241115195324.png",
+    "Pasted image 20241115195058.png",
+    "Pasted image 20241115194902.png",
+    "Junktoren und Quantoren.md",
+    "Pasted image 20241115194715.png",
+    "Zermelo-Fraenkel-System.md",
+    "Unendliche Mengen.md",
+    "Pasted image 20241115192631.png",
+    "Pasted image 20241115192142.png",
+    "Pasted image 20241115192112.png",
+    "Pasted image 20241115191926.png",
+    "Pasted image 20241115191858.png",
+    "Syllogismen.md"
+  ]
+}
