@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskrete Strukturen/Syllogismen.md",
+                "file": "Diskrete Strukturen/VL5-binäreRelationen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllogismen"
+              "title": "VL5-binäreRelationen"
             }
           }
         ],
@@ -250,10 +250,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diskrete Strukturen/Syllogismen.md"
+                "file": "Diskrete Strukturen/VL9-Graphen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Syllogismen"
+              "title": "Outline of VL9-Graphen"
             }
           },
           {
@@ -286,10 +286,20 @@
   },
   "active": "72068cd40746f87c",
   "lastOpenFiles": [
+    "Diskrete Strukturen/VL4-Tupel.md",
+    "Diskrete Strukturen/VL4-Induktion.md",
+    "Diskrete Strukturen/VL5-binäreRelationen.md",
+    "Diskrete Strukturen/VL5-Induktion.md",
+    "Diskrete Strukturen/VL6-partielleOrdnungen.md",
+    "Diskrete Strukturen/VL6-Äquivalenzrelationen.md",
+    "Diskrete Strukturen/VL7-Funktionen.md",
+    "Diskrete Strukturen/VL8-unendlicheMengen.md",
+    "Diskrete Strukturen/VL9-Graphen.md",
+    "Diskrete Strukturen/VL10-ungerichteteGraphen.md",
+    "Diskrete Strukturen/Zermelo-Fraenkel-System.md",
     "Diskrete Strukturen/VL1-LogikGrundlagen.md",
     "Diskrete Strukturen/Syllogismen.md",
     "Diskrete Strukturen/Images/Pasted image 20241115195401.png",
-    "Diskrete Strukturen/VL6-Äquivalenzrelationen.md",
     "Diskrete Strukturen/Images/Pasted image 20241115112253.png",
     "Diskrete Strukturen/Images/Pasted image 20241115190435.png",
     "Diskrete Strukturen/Images",
@@ -304,22 +314,12 @@
     "Diskrete Strukturen/De Morgan'schen Regeln.md",
     "Diskrete Strukturen/VL3-Mengen.md",
     "Diskrete Strukturen/Relationen.md",
-    "Diskrete Strukturen/VL4-Tupel.md",
-    "Diskrete Strukturen/VL4-Tupel.md",
-    "Diskrete Strukturen/VL10-ungerichteteGraphen.md",
     "Diskrete Strukturen/Untitled.canvas",
     "Test Push.md",
     "Untitled 2.md",
-    "Diskrete Strukturen/VL9-Graphen.md",
     "Diskrete Strukturen/VL9-unendlicheMengen.md",
-    "Diskrete Strukturen/VL8-unendlicheMengen.md",
     "Diskrete Strukturen/VL8-Unendliche Mengen.md",
-    "Diskrete Strukturen/VL7-Funktionen.md",
     "Diskrete Strukturen/Images/Pasted image 20241115190909.png",
-    "Diskrete Strukturen/VL6-partielleOrdnungen.md",
-    "Diskrete Strukturen/VL5-Induktion.md",
-    "Diskrete Strukturen/VL5-binäreRelationen.md",
-    "Diskrete Strukturen/VL4-Induktion.md",
     "VL2-",
     "VL1-Logik Grundlagen",
     "Diskrete Strukturen/Images/Pasted image 20241115191858.png",

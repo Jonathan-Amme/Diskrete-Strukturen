@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "CUSTOM_REGEXPS": {
+      "Bildverdeckung": "",
+      "Einfach": "",
+      "Einfach (Antwort eintippen)": "",
+      "Einfach (beide Richtungen)": "",
+      "Einfach (eine oder zwei Richtungen)": "",
+      "Lückentext": ""
+    },
+    "FILE_LINK_FIELDS": {
+      "Bildverdeckung": "Verdeckung",
+      "Einfach": "Vorderseite",
+      "Einfach (Antwort eintippen)": "Vorderseite",
+      "Einfach (beide Richtungen)": "Vorderseite",
+      "Einfach (eine oder zwei Richtungen)": "Vorderseite",
+      "Lückentext": "Text"
+    },
+    "CONTEXT_FIELDS": {},
+    "FOLDER_DECKS": {},
+    "FOLDER_TAGS": {},
+    "Syntax": {
+      "Begin Note": "START",
+      "End Note": "END",
+      "Begin Inline Note": "STARTI",
+      "End Inline Note": "ENDI",
+      "Target Deck Line": "TARGET DECK",
+      "File Tags Line": "FILE TAGS",
+      "Delete Note Line": "DELETE",
+      "Frozen Fields Line": "FROZEN"
+    },
+    "Defaults": {
+      "Scan Directory": "",
+      "Tag": "Obsidian_to_Anki",
+      "Deck": "Default",
+      "Scheduling Interval": 0,
+      "Add File Link": false,
+      "Add Context": false,
+      "CurlyCloze": false,
+      "CurlyCloze - Highlights to Clozes": false,
+      "ID Comments": true,
+      "Add Obsidian Tags": false
+    },
+    "IGNORED_FILE_GLOBS": [
+      "**/*.excalidraw.md"
+    ]
+  },
+  "Added Media": [],
+  "File Hashes": {},
+  "fields_dict": {}
+}

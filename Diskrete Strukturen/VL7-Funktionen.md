@@ -1,0 +1,18 @@
+## Ordnungsrelationen
+- REFLEXIV, ANTISYMMETRISCH, TRANSITIV
+- ### Partielle Ordnung (Halbordnung)
+	- REFLEXIV, ANTISYMMETRISCH, TRANSITIV
+	- Beispiel:
+		- Die Menge {1, 2, 3} mit der Relation $\subseteq$
+				- {1}  $\subseteq$  {1, 2}
+					- {1} und {2} sind nicht vergleichbar, da keine der beiden eine Teilmenge der anderen ist
+- ### Totale Ordnung (Totalordnung))
+	- REFLEXIV, ANTISYMMETRISCH, TRANSITIV (Partielle Ordnung)
+	- UND alle Elemente eines Sets miteinander vergleichbar sind
+	- Beispiel: 
+		- Die Menge $\mathbb{Z}$ mit der Relation $\leq$
+- ## Standardbegriffe
+	- Maximales/Minimales Element
+		- 
+	- Größtes/Kleinstes Element
+	- 
