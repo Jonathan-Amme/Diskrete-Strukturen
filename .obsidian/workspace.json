@@ -1,0 +1,330 @@
+{
+  "main": {
+    "id": "4ce870ef27eae09c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ebffa4e1c901ff0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "577b8beec8b4b7ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen/Zermelo-Fraenkel-System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zermelo-Fraenkel-System"
+            }
+          },
+          {
+            "id": "06e9fa09c7d96889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen/VL2-Beweise.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VL2-Beweise"
+            }
+          },
+          {
+            "id": "d1bc2e79f0ea94e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen/VL3-Mengen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VL3-Mengen"
+            }
+          },
+          {
+            "id": "d1a1094572424d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen/VL5-Induktion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VL5-Induktion"
+            }
+          },
+          {
+            "id": "1a8aacad0c177b2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen/VL5-Induktion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VL5-Induktion"
+            }
+          },
+          {
+            "id": "70c42b2b78d7641c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen/VL6-Äquivalenzrelationen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VL6-Äquivalenzrelationen"
+            }
+          },
+          {
+            "id": "db70b7150a9bc4e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen/VL6-partielleOrdnungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VL6-partielleOrdnungen"
+            }
+          },
+          {
+            "id": "3926f41b1123c95a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen/VL9-Graphen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VL9-Graphen"
+            }
+          },
+          {
+            "id": "72068cd40746f87c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diskrete Strukturen/Syllogismen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Syllogismen"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cba882b7b9ad958",
+    "type": "split",
+    "children": [
+      {
+        "id": "9db05c8cd2e891b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99d7ab1ba589fd76",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "577feeec5e4b7b5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1349a126d7b027b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "a119e5a65d78b9a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "565c343ff46adf4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b9f653183c17d6aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "362fbe9d9d87017b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "8303a484e688f0d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ccde55c46110f418",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diskrete Strukturen/Syllogismen.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Syllogismen"
+            }
+          },
+          {
+            "id": "e231f60385ddf59f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "72068cd40746f87c",
+  "lastOpenFiles": [
+    "Diskrete Strukturen/VL1-LogikGrundlagen.md",
+    "Diskrete Strukturen/Syllogismen.md",
+    "Diskrete Strukturen/Images/Pasted image 20241115195401.png",
+    "Diskrete Strukturen/VL6-Äquivalenzrelationen.md",
+    "Diskrete Strukturen/Images/Pasted image 20241115112253.png",
+    "Diskrete Strukturen/Images/Pasted image 20241115190435.png",
+    "Diskrete Strukturen/Images",
+    "Diskrete Strukturen/Images/Pasted image 20241115190409.png",
+    "Diskrete Strukturen/Images/Pasted image 20241115190139.png",
+    "Diskrete Strukturen/Images/Pasted image 20241115190043.png",
+    "Diskrete Strukturen/Mengenoperationen.md",
+    "Diskrete Strukturen/Junktoren und Quantoren.md",
+    "Diskrete Strukturen/Folge.md",
+    "Diskrete Strukturen/Diskrete Strukturen.md",
+    "Diskrete Strukturen/Erfüllbarkeit und Gültigkeit.md",
+    "Diskrete Strukturen/De Morgan'schen Regeln.md",
+    "Diskrete Strukturen/VL3-Mengen.md",
+    "Diskrete Strukturen/Relationen.md",
+    "Diskrete Strukturen/VL4-Tupel.md",
+    "Diskrete Strukturen/VL4-Tupel.md",
+    "Diskrete Strukturen/VL10-ungerichteteGraphen.md",
+    "Diskrete Strukturen/Untitled.canvas",
+    "Test Push.md",
+    "Untitled 2.md",
+    "Diskrete Strukturen/VL9-Graphen.md",
+    "Diskrete Strukturen/VL9-unendlicheMengen.md",
+    "Diskrete Strukturen/VL8-unendlicheMengen.md",
+    "Diskrete Strukturen/VL8-Unendliche Mengen.md",
+    "Diskrete Strukturen/VL7-Funktionen.md",
+    "Diskrete Strukturen/Images/Pasted image 20241115190909.png",
+    "Diskrete Strukturen/VL6-partielleOrdnungen.md",
+    "Diskrete Strukturen/VL5-Induktion.md",
+    "Diskrete Strukturen/VL5-binäreRelationen.md",
+    "Diskrete Strukturen/VL4-Induktion.md",
+    "VL2-",
+    "VL1-Logik Grundlagen",
+    "Diskrete Strukturen/Images/Pasted image 20241115191858.png",
+    "Diskrete Strukturen/Images/Pasted image 20241115192142.png",
+    "Diskrete Strukturen/Images/Pasted image 20241115194715.png",
+    "Untitled.canvas"
+  ]
+}

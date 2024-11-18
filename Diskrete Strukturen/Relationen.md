@@ -1,5 +1,5 @@
 
->Eine **Relation** zwischen zwei Mengen A und B ist eine Teilmenge des **kartesischen Produkts** $A \times B$. Das bedeutet, dass eine Relation R zwischen A und B eine Menge von geordneten Paaren ist, wobei das erste Element eine Paares aus A und das zweite aus B stammt. [[Funktionen]] sind besondere Arten von Relationen.
+>Eine **Relation** zwischen zwei Mengen A und B ist eine Teilmenge des **kartesischen Produkts** $A \times B$. Das bedeutet, dass eine Relation R zwischen A und B eine Menge von geordneten Paaren ist, wobei das erste Element eine Paares aus A und das zweite aus B stammt. [[VL7-Funktionen]] sind besondere Arten von Relationen.
 
 ### Beispiel:
 

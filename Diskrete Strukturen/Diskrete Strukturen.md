@@ -1,5 +1,5 @@
 Materialien](https://www.moodle.tum.de)
->*„Diskrete Strukturen“* bezieht sich auf mathematische Konzepte, die sich mit zählbaren, einzelnen oder getrennten Objekten befassen und dem damit einhergehenden [beweisen](Beweise). Sie sind besonders relevant in der Informatik, Kombinatorik und diskreten Mathematik. Hier sind einige wichtige Bereiche:
+>*„Diskrete Strukturen“* bezieht sich auf mathematische Konzepte, die sich mit zählbaren, einzelnen oder getrennten Objekten befassen und dem damit einhergehenden [beweisen](VL2-Beweise.md). Sie sind besonders relevant in der Informatik, Kombinatorik und diskreten Mathematik. Hier sind einige wichtige Bereiche:
 
 # 1. Logik
 ### Grundlagen
@@ -16,7 +16,7 @@ Materialien](https://www.moodle.tum.de)
 
 # 2. Mengen
 
->Eine [Menge](Mengen) ist eine Sammlung von wohlunterscheidbaren Objekten, die als **Elemente** der Menge bezeichnet werden. Eine Menge kann endlich oder unendlich viele Elemente enthalten.
+>Eine [Menge](VL3-Mengen.md) ist eine Sammlung von wohlunterscheidbaren Objekten, die als **Elemente** der Menge bezeichnet werden. Eine Menge kann endlich oder unendlich viele Elemente enthalten.
 
 ### Notation:
 
@@ -28,7 +28,7 @@ Materialien](https://www.moodle.tum.de)
 Die Elemente einer Menge haben **keine Reihenfolge** und **keine Duplikate**. Beispiel: {1,2,3}={3,2,1}.
 
 # 3. Tupel
->Ein [Tupel](Tupel) in der Mathematik ist eine geordnete Liste von Elementen, während eine [[Folge]] eine geordnete Liste ist, die oft durch eine Regel definiert wird und eine endliche oder unendliche Länge haben kann.
+>Ein [VL4-Tupel](VL4-Tupel.md) in der Mathematik ist eine geordnete Liste von Elementen, während eine [[Folge]] eine geordnete Liste ist, die oft durch eine Regel definiert wird und eine endliche oder unendliche Länge haben kann.
 
 $$(a_1,a_2,a_3,…,a_n)$$
 
@@ -36,7 +36,7 @@ $$(a_1,a_2,a_3,…,a_n)$$
 
 #  4. Relationen und Funktionen
 
-Tupel spielen auch in der Definition von [[Relationen]] und [[Funktionen]] eine zentrale Rolle. Eine Relation R zwischen zwei Mengen A und B ist eine Teilmenge des kartesischen Produkts $A×B$, also eine Menge von 2-Tupeln:
+Tupel spielen auch in der Definition von [[Relationen]] und [[VL7-Funktionen]] eine zentrale Rolle. Eine Relation R zwischen zwei Mengen A und B ist eine Teilmenge des kartesischen Produkts $A×B$, also eine Menge von 2-Tupeln:
 
 $R⊆A×B$
 
@@ -44,4 +44,4 @@ Eine Funktion $f:A→B$ kann als eine Menge von geordneten Paaren $(a,b)$ defini
 
 
 # 5. Graphen
->[[Graphen]] sind eine grundlegende Struktur in der Mathematik und Informatik, die dazu dienen, Beziehungen zwischen Objekten darzustellen. Sie bestehen aus **Knoten** (auch als **Ecken** bezeichnet) und **Kanten**, die die Verbindungen zwischen den Knoten darstellen. Diese einfache, aber mächtige Struktur wird in einer Vielzahl von Anwendungsbereichen eingesetzt, darunter Netzwerktheorie, Datenstrukturen, Algorithmen, Verkehrsplanung und viele mehr.
+>[[VL9-Graphen]] sind eine grundlegende Struktur in der Mathematik und Informatik, die dazu dienen, Beziehungen zwischen Objekten darzustellen. Sie bestehen aus **Knoten** (auch als **Ecken** bezeichnet) und **Kanten**, die die Verbindungen zwischen den Knoten darstellen. Diese einfache, aber mächtige Struktur wird in einer Vielzahl von Anwendungsbereichen eingesetzt, darunter Netzwerktheorie, Datenstrukturen, Algorithmen, Verkehrsplanung und viele mehr.

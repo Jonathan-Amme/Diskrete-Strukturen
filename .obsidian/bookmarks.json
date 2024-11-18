@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1731923913966,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL1-LogikGrundlagen.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL2-Beweise.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL3-Mengen.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL4-Induktion.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL4-Tupel.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL5-binäreRelationen.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL5-Induktion.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL6-Äquivalenzrelationen.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL6-partielleOrdnungen.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL7-Funktionen.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL8-unendlicheMengen.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL9-Graphen.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1731923904694,
+          "path": "Diskrete Strukturen/VL10-ungerichteteGraphen.md"
+        }
+      ],
+      "title": "Vorlesungen"
+    }
+  ]
+}
