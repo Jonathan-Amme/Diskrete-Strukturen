@@ -49,8 +49,8 @@ Adjazensmatix, Adjazenzliste....
         - Eingangsgrad: Anzahl der eingehenden Kanten.
         - Ausgangsgrad: Anzahl der ausgehenden Kanten.
     - Beispiel: Im gerichteten Graphen $A→B,B→C,A→C$:
-        - Eingangsgrad von C: 222.
-        - Ausgangsgrad von A: 222.
+        - Eingangsgrad von C: 2.
+        - Ausgangsgrad von A: 2.
 6. **Zusammenhängend und nicht zusammenhängend**
     
     - **Zusammenhängender Graph**: Jeder Knoten ist durch Pfade mit jedem anderen Knoten verbunden.
@@ -70,7 +70,7 @@ Adjazensmatix, Adjazenzliste....
     
     - Ein Baum ist ein spezieller Graph, der zusammenhängend ist und keine Kreise enthält.
     - Eigenschaften:
-        - ∣E∣=∣V∣−1|E| = |V| - 1∣E∣=∣V∣−1.
+        - $∣E∣=∣V∣−1$
         - Es gibt genau einen Pfad zwischen zwei beliebigen Knoten.
 11. **Isomorphie**
     
