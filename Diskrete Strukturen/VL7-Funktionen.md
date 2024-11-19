@@ -4,15 +4,22 @@
 	- REFLEXIV, ANTISYMMETRISCH, TRANSITIV
 	- Beispiel:
 		- Die Menge {1, 2, 3} mit der Relation $\subseteq$
-				- {1}  $\subseteq$  {1, 2}
-					- {1} und {2} sind nicht vergleichbar, da keine der beiden eine Teilmenge der anderen ist
+			 - {1}  $\subseteq$  {1, 2}
+				- {1} und {2} sind nicht vergleichbar, da keine der beiden eine Teilmenge der anderen ist
 - ### Totale Ordnung (Totalordnung))
 	- REFLEXIV, ANTISYMMETRISCH, TRANSITIV (Partielle Ordnung)
 	- UND alle Elemente eines Sets miteinander vergleichbar sind
 	- Beispiel: 
 		- Die Menge $\mathbb{Z}$ mit der Relation $\leq$
 - ## Standardbegriffe
-	- Maximales/Minimales Element
-		- 
-	- Größtes/Kleinstes Element
-	- 
+	- Maximales Element (wenn mRa, auch aRm und damit a = m)
+		- "Keine Kanten zu einem anderen Element"
+		- bei partiellen Ordnungen kann es auch unvergleichliche Objekte geben
+	- Größtes Element (größtes Element m $\in$ A, falls aRm für jedes a $\in$ A gilt)
+		- "Keine Kanten zu einem anderen Element, aber von jedem anderen Element eine Kante"
+		- Wenn R total, dann ist ein maximales Element auch ein größtes Element
+	- Minimales Element (m $\in$ A minimal, wenn: wenn aRm, dann gilt a = m)
+		- "Keine eingehenden Kanten"
+		- muss nicht zu jedem anderen Element eine Kante haben
+	- Kleinstes Element (kleinstes Element m $\in$ A, falls mRa für jedes a $\in$ A)
+		- "Keine eingehende Kante, aber dafür ausgehende Kanten zu jedem anderen Element."
