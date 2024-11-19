@@ -19,7 +19,7 @@ Graphen sind eine grundlegende mathematische Struktur, die verwendet wird, um Be
  **Kreis**:  
         Ein geschlossener Pfad, bei dem der Startknoten gleich dem Endknoten ist.
         
- **Baum**:  
+ [Baum](Bäume):  
         Ein spezieller Graph, der zusammenhängend ist und keine Kreise enthält.
 
 # Darstellung von Graphen
