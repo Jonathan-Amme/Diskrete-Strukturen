@@ -14,22 +14,21 @@
 
 ### **Hamiltonischer Graph**
 
-Ein Graph, der einen Hamiltonkreis besitzt, wird als **hamiltonischer Graph** bezeichnet. Es gibt keine universelle Formel, um direkt zu bestimmen, ob ein Graph hamiltonisch ist, aber es gibt wichtige Kriterien und Sätze.
+>Ein Graph, der einen Hamiltonkreis besitzt, wird als **hamiltonischer Graph** bezeichnet. Es gibt keine universelle Formel, um direkt zu bestimmen, ob ein Graph hamiltonisch ist, aber es gibt wichtige Kriterien und Sätze.
 
 ---
 
 ### **Kriterien für Hamiltonkreise**
 
-Es gibt keine einfachen, notwendigen und hinreichenden Bedingungen wie bei Eulerkreisen. Dennoch gibt es hilfreiche Kriterien:
+>Es gibt keine einfachen, notwendigen und hinreichenden Bedingungen wie bei Eulerkreisen. Dennoch gibt es hilfreiche Kriterien:
 
 1. **Dirac’s Satz**:  
-    Ein Graph mit n≥3n \geq 3n≥3 Knoten ist hamiltonisch, wenn jeder Knoten mindestens ⌈n2⌉\lceil \frac{n}{2} \rceil⌈2n​⌉ Nachbarn hat.  
+    Ein Graph mit $n≥3$ Knoten ist hamiltonisch, wenn jeder Knoten mindestens $\lceil \frac{n}{2} \rceil$ Nachbarn hat.  
     (Das ist eine hinreichende, aber nicht notwendige Bedingung.)
     
 2. **Ore’s Satz**:  
-    Ein Graph mit n≥3n \geq 3n≥3 Knoten ist hamiltonisch, wenn für alle nicht benachbarten Knoten uuu und vvv gilt:
-    
-    deg(u)+deg(v)≥n\text{deg}(u) + \text{deg}(v) \geq ndeg(u)+deg(v)≥n
+    Ein Graph mit $n≥3$ Knoten ist hamiltonisch, wenn für alle nicht benachbarten Knoten u und v gilt:
+    $$\text{deg}(u) + \text{deg}(v) \geq n$$
     
     (Auch dies ist eine hinreichende Bedingung.)
     

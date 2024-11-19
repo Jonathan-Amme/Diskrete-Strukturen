@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VL9-Graphen.md",
+                "file": "Bäume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VL9-Graphen"
+              "title": "Bäume"
             }
           },
           {
@@ -232,18 +232,20 @@
   },
   "active": "29df0945d969bdf6",
   "lastOpenFiles": [
-    "Bäume.md",
-    "Diskrete Strukturen.md",
-    "Kruskal-Algorithmus.md",
-    "Kruskal.md",
     "VL9-Graphen.md",
+    "Diskrete Strukturen.md",
+    "Euler-Kreis.md",
+    "Hamilton-Kreis.md",
+    "Kruskal-Algorithmus.md",
+    "Mengenoperationen.md",
+    "Kuratowski’s Theorem.md",
+    "Bäume.md",
+    "Prim-Algorithmus.md",
+    "Kruskal.md",
     "Pasted image 20241119142700.png",
     "Pasted image 20241119142334.png",
-    "Hamilton-Kreis.md",
     "Hamiltonischer Graph.md",
-    "Euler-Kreis.md",
     "Eulerscher Graph.md",
-    "Kuratowski’s Theorem.md",
     "Relationen.md",
     "VL7-Funktionen.md",
     "Folge.md",
@@ -261,8 +263,6 @@
     "VL4-Induktion.md",
     "VL3-Mengen.md",
     "VL2-Beweise.md",
-    "VL10-ungerichteteGraphen.md",
-    "VL1-LogikGrundlagen.md",
     "Images/Pasted image 20241115195401.png",
     "Images/Pasted image 20241115195324.png",
     "Images/Pasted image 20241115195058.png",

@@ -25,10 +25,8 @@ Eigenschaften eines Baumes:
 ---
 
 ## Typen von Bäumen
-[hier](https://studyflix.de/informatik/binarbaum-1362)
-
 ### 1. **Binäre Bäume**
-
+[hier](https://studyflix.de/informatik/binarbaum-1362)
 Ein Baum, bei dem jeder Knoten höchstens zwei Kinder (linkes und rechtes Kind) hat.
 
 - **Eigenschaften**:

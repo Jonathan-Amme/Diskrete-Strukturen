@@ -19,7 +19,7 @@ Ein Graph ist **eulerscher Graph**, wenn folgende Bedingungen erfüllt sind:
 
 ### **Eulerpfad (statt Eulerkreis)**
 
-Falls ein Graph **keinen Eulerkreis** besitzt, kann er möglicherweise einen **Eulerpfad** haben. Ein Eulerpfad ist ein Weg, der jede Kante **genau einmal** benutzt, aber nicht notwendigerweise am Startknoten endet.
+>Falls ein Graph **keinen Eulerkreis** besitzt, kann er möglicherweise einen **Eulerpfad** haben. Ein Eulerpfad ist ein Weg, der jede Kante **genau einmal** benutzt, aber nicht notwendigerweise am Startknoten endet.
 
 - **Bedingungen für einen Eulerpfad in ungerichteten Graphen**:
     
