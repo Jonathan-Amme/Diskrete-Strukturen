@@ -137,18 +137,30 @@
             "id": "5b06383621b27e8f",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Diskrete Strukturen/Pasted image 20241118175806.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241118175806"
+            }
+          },
+          {
+            "id": "5a6e24f5083ebf34",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Diskrete Strukturen/VL7-Funktionen.md",
+                "file": "Diskrete Strukturen/VL12-Gradfolgen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VL7-Funktionen"
+              "title": "VL12-Gradfolgen"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -298,17 +310,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b06383621b27e8f",
+  "active": "5a6e24f5083ebf34",
   "lastOpenFiles": [
+    "Diskrete Strukturen/VL10-ungerichteteGraphen.md",
     "Diskrete Strukturen/VL9-Graphen.md",
+    "Diskrete Strukturen/VL12-Gradfolgen.md",
+    "Diskrete Strukturen/Pasted image 20241118175806.png",
     "Diskrete Strukturen/VL7-Funktionen.md",
+    "Diskrete Strukturen/Prim-Algorithmus.md",
+    "Diskrete Strukturen/Pasted image 20241119142700.png",
+    "Diskrete Strukturen/Pasted image 20241119142334.png",
+    "Diskrete Strukturen/Kruskal-Algorithmus.md",
+    "Diskrete Strukturen/Bäume.md",
     "Diskrete Strukturen/VL5-Induktion.md",
     "Diskrete Strukturen/VL4-Tupel.md",
     "Diskrete Strukturen/VL2-Beweise.md",
     "Diskrete Strukturen/VL1-LogikGrundlagen.md",
     "Diskrete Strukturen/Pasted image 20241118175923.png",
     "Diskrete Strukturen/Pasted image 20241118175849.png",
-    "Diskrete Strukturen/Pasted image 20241118175806.png",
     "Diskrete Strukturen/Kuratowski’s Theorem.md",
     "Diskrete Strukturen/Hamilton-Kreis.md",
     "Diskrete Strukturen/Euler-Kreis.md",
@@ -317,7 +336,6 @@
     "Diskrete Strukturen/VL6-partielleOrdnungen.md",
     "Diskrete Strukturen/VL6-Äquivalenzrelationen.md",
     "Diskrete Strukturen/VL8-unendlicheMengen.md",
-    "Diskrete Strukturen/VL10-ungerichteteGraphen.md",
     "Diskrete Strukturen/Zermelo-Fraenkel-System.md",
     "Diskrete Strukturen/Syllogismen.md",
     "Diskrete Strukturen/Images/Pasted image 20241115195401.png",
@@ -326,18 +344,11 @@
     "Diskrete Strukturen/Images",
     "Diskrete Strukturen/Images/Pasted image 20241115190409.png",
     "Diskrete Strukturen/Images/Pasted image 20241115190139.png",
-    "Diskrete Strukturen/Images/Pasted image 20241115190043.png",
     "Diskrete Strukturen/Mengenoperationen.md",
     "Diskrete Strukturen/Junktoren und Quantoren.md",
     "Diskrete Strukturen/Folge.md",
     "Diskrete Strukturen/Diskrete Strukturen.md",
-    "Diskrete Strukturen/Erfüllbarkeit und Gültigkeit.md",
-    "Diskrete Strukturen/De Morgan'schen Regeln.md",
-    "Diskrete Strukturen/VL3-Mengen.md",
-    "Diskrete Strukturen/Relationen.md",
     "Diskrete Strukturen/Untitled.canvas",
-    "Test Push.md",
-    "Diskrete Strukturen/Images/Pasted image 20241115190909.png",
     "VL2-",
     "VL1-Logik Grundlagen",
     "Untitled.canvas"
