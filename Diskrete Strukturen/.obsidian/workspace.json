@@ -25,14 +25,12 @@
             "id": "29df0945d969bdf6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Bäume.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20241119142700.png"
               },
-              "icon": "lucide-file",
-              "title": "Bäume"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241119142700"
             }
           },
           {
@@ -232,22 +230,27 @@
   },
   "active": "29df0945d969bdf6",
   "lastOpenFiles": [
-    "VL9-Graphen.md",
+    "VL7-Funktionen.md",
     "Diskrete Strukturen.md",
-    "Euler-Kreis.md",
     "Hamilton-Kreis.md",
+    "VL9-Graphen.md",
+    "Vier-Farben-Satz.md",
+    "Planarität.md",
+    "Kuratowski’s Theorem.md",
+    "Handschlaglemma.md",
+    "Pasted image 20241126143037.png",
+    "Bäume.md",
+    "Euler-Kreis.md",
+    "VL12-Gradfolgen.md",
+    "Relationen.md",
     "Kruskal-Algorithmus.md",
     "Mengenoperationen.md",
-    "Kuratowski’s Theorem.md",
-    "Bäume.md",
     "Prim-Algorithmus.md",
     "Kruskal.md",
     "Pasted image 20241119142700.png",
     "Pasted image 20241119142334.png",
     "Hamiltonischer Graph.md",
     "Eulerscher Graph.md",
-    "Relationen.md",
-    "VL7-Funktionen.md",
     "Folge.md",
     "Pasted image 20241118175923.png",
     "Pasted image 20241118175849.png",
@@ -259,15 +262,10 @@
     "VL6-Äquivalenzrelationen.md",
     "VL6-partielleOrdnungen.md",
     "VL5-binäreRelationen.md",
-    "VL5-Induktion.md",
-    "VL4-Induktion.md",
-    "VL3-Mengen.md",
-    "VL2-Beweise.md",
     "Images/Pasted image 20241115195401.png",
     "Images/Pasted image 20241115195324.png",
     "Images/Pasted image 20241115195058.png",
     "Images/Pasted image 20241115194902.png",
-    "Images/Pasted image 20241115194715.png",
     "Images",
     "GitHub",
     "Untitled.canvas"

@@ -44,7 +44,6 @@ Ein Baum, bei dem jeder Knoten höchstens zwei Kinder (linkes und rechtes Kind) 
 
 ### 2. **Suchbäume**
 [hier](https://studyflix.de/informatik/binaerer-suchbaum-1364)
-Ein spezieller binärer Baum, bei dem die linke Teilmenge kleiner und die rechte größer ist als der aktuelle Knotenwert.
 
 - Beispiele: **Binary Search Tree (BST)**, **AVL-Bäume**, **Rot-Schwarz-Bäume**.
 

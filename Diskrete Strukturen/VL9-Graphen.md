@@ -13,6 +13,7 @@ Graphen sind eine grundlegende mathematische Struktur, die verwendet wird, um Be
         Die Anzahl der Kanten, die mit einem Knoten verbunden sind. Im gerichteten Graphen unterscheidet man:
             Eingangsgrad: Anzahl der eingehenden Kanten.
             Ausgangsgrad: Anzahl der ausgehenden Kanten.
+	    Für jede akkumulierte Gradzahl eines Graphen gilt das [[Handschlaglemma]]
 **Pfad**:  
         Eine Abfolge von Knoten, bei der jeder benachbarte Knoten über eine Kante verbunden ist.
         
@@ -23,7 +24,77 @@ Graphen sind eine grundlegende mathematische Struktur, die verwendet wird, um Be
         Ein spezieller Graph, der zusammenhängend ist und keine Kreise enthält.
 
 # Darstellung von Graphen
-Adjazensmatix, Adjazenzliste....
+### **Knoten- und Kantenlisten**
+
+- **Knotenliste**: Eine Liste aller Knoten des Graphen.
+- **Kantenliste**: Eine Liste aller Verbindungen (Kanten) zwischen den Knoten.
+
+**Beispiel:** Für den Graphen G mit Knoten V={A,B,C,D} und Kanten E={(A,B),(B,C),(C,D),(A,D)}:
+
+- Knotenliste: V={A,B,C,D}
+- Kantenliste: E={(A,B),(B,C),(C,D),(A,D)}
+
+---
+
+### **Adjazenzmatrix**
+
+Eine **Adjazenzmatrix** ist eine quadratische Matrix, in der Einträge 11 (oder 00) angeben, ob zwei Knoten verbunden sind.
+
+- A[i][j]=1=: Es existiert eine Kante zwischen Knoten i und j.
+- A[i][j]=0=0: Keine Kante zwischen i und j.
+
+**Beispiel für ungerichteten Graph:**
+
+![[Pasted image 20241126143037.png]]
+
+---
+
+### **Adjazenzliste**
+
+Eine **Adjazenzliste** ist eine kompakte Darstellung, bei der für jeden Knoten die direkt angrenzenden Nachbarknoten aufgelistet werden.
+
+**Beispiel:**
+
+- A:[B,D]
+- B:[A,C]
+- C:[B,D]
+- D:[A,C]
+# Realisierbarkeit
+
+#### 1. **Handschlaglemma**
+
+Die Summe der Grade aller Knoten muss gerade sein:
+
+$i=1∑^n ​d_i$​ ist gerade.
+
+Grund: Jede Kante trägt zu zwei Knotengraden bei.
+
+Wenn diese Bedingung nicht erfüllt ist, ist die Gradfolge nicht realisierbar.
+
+#### 2. **Havel-Hakimi-Kriterium**
+
+Das **Havel-Hakimi-Algorithmus** ist ein iteratives Verfahren, das prüft, ob eine Gradfolge realisierbar ist.
+
+##### Algorithmus:
+
+1. Sortiere die Folge $d=(d_1,d_2,…,d_n)$ in absteigender Reihenfolge.
+2. Entferne den größten Wert $d_1$​ aus der Folge.
+3. Ziehe 1 von den nächsten $d_1$​ Werten in der Folge ab.
+    - Beispiel: Wenn $d_1=3$, reduziere die drei nächsten Werte um 1.
+4. Wiederhole den Vorgang mit der neuen Folge.
+    - Falls ein Wert negativ wird, ist die Folge nicht realisierbar.
+5. Die Gradfolge ist realisierbar, wenn am Ende nur Nullen übrig bleiben.
+
+##### Beispiel:
+
+Gegeben d=(4,3,3,3,3):
+
+1. $d_1=4$, ziehe 1 von den nächsten 4 Werten ab: $d=(3,2,2,2)$.
+2. $d_1=3$​, ziehe 1 von den nächsten 3 Werten ab: $d=(2,1,1)$.
+2. $d_1=2$, ziehe 1 von den nächsten 2 Werten ab: $d=(1,0)$.
+3. $d_1=1$, ziehe 1 von den nächsten 1 Werten ab: $d=(0)$.
+4. Die Gradfolge ist realisierbar, da nur Nullen übrig bleiben.
+
 # Eigenschaften von Graphen
 
 1. **Knotenanzahl ($∣V∣$)**

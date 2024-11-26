@@ -1,0 +1,54 @@
+
+>Die **Planarität** eines Graphen ist ein Konzept der Graphentheorie, das beschreibt, ob ein Graph in der Ebene gezeichnet werden kann, ohne dass sich seine Kanten überschneiden (außer an den Knotenpunkten).
+
+---
+
+### **Definition**
+
+Ein **Graph ist planar**, wenn er so in die Ebene eingebettet werden kann, dass keine zwei Kanten sich schneiden (außer an gemeinsamen Knoten). Eine solche Zeichnung nennt man eine **planare Einbettung**.
+
+---
+
+### **Beispiele**
+
+1. **Planarer Graph**:
+    
+    - Ein einfacher Dreieck-Graph mit Knoten A,B,C und Kanten (A,B),(B,C),(C,A) ist planar, da er ohne Überschneidungen gezeichnet werden kann.
+2. **Nicht-planarer Graph**:
+    
+    - Der vollständige Graph $K_5$​ (5 Knoten, wobei jeder Knoten mit jedem anderen verbunden ist) ist **nicht planar**. Es ist unmöglich, ihn ohne Überschneidungen in die Ebene einzubetten.
+
+---
+
+### **Kriterien für Planarität**
+
+Es gibt mehrere Methoden, um die Planarität eines Graphen zu bestimmen:
+
+#### 1. **Eulersche Formel** (für zusammenhängende planare Graphen)
+
+Die **Eulersche Polyederformel** lautet:
+
+$∣V∣−∣E∣+∣F∣=2$
+
+wobei:
+
+- ∣V∣: Anzahl der Knoten,
+- ∣E∣: Anzahl der Kanten,
+- ∣F∣: Anzahl der Flächen (inklusive der unendlichen Außenfläche).
+
+Für einen planaren Graphen gilt immer diese Beziehung. Wenn sie verletzt wird, ist der Graph nicht planar.
+
+#### 2. [[Kuratowski’s Theorem]]
+
+### **Planare Graphen und ihre Eigenschaften**
+
+1. **Maximale Anzahl der Kanten in einem planaren Graphen**:
+    
+    - Für einen planaren Graphen mit nn Knoten gilt:$∣E∣≤3∣V∣−6,wenn->n≥3.$
+    - Für einen planaren Graphen ohne Mehrfachkanten oder Schleifen (also ohne Parallel- oder Eigenkanten).
+2. **Dualer Graph**:
+    
+    - Jeder planare Graph hat einen **dualen Graphen**, in dem jede Fläche des ursprünglichen Graphen einem Knoten im dualen Graphen entspricht.
+3. **Färbungsproblem**:
+    
+    - Planare Graphen können immer mit **höchstens 4 Farben** so gefärbt werden, dass keine zwei benachbarten Knoten dieselbe Farbe haben (siehe [[Vier-Farben-Satz]]).
