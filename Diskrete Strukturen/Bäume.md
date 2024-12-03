@@ -58,13 +58,13 @@ Ein Unterbaum eines Graphen, der alle Knoten verbindet und keinen Zyklus enthäl
 ![[Pasted image 20241119142700.png]]
 
 # Übungen
-## Übungsblatt 6(Übung 1)
+## Übungsblatt 6(Aufgabe 1)
 
 ### Aufgabenstellung
 ![[Pasted image 20241127141535.png]]
 ### Lösung
 a) (4,4,3,2,2,1,1,1,1,1,1,1)
-b) 
+b) ![[Pasted image 20241127162205.png]]
 c) I) Für jeden Baum gilt E=n-1 und $∑​deg(v)=2∣E∣$ , ergo gilt $∑_i^n ​d_i​=2n−2$
  II)jeder baum hat mindestens zwei Knoten mit Grad 1, das ergibt sich aus der Tatsache, dass Bäume keine Zyklen haben und keine Knoten mit Grad 0 zulassen (jeder Knoten ist verbunden und $n≥2$
  d)
@@ -72,10 +72,11 @@ c) I) Für jeden Baum gilt E=n-1 und $∑​deg(v)=2∣E∣$ , ergo gilt $∑_i^
  Annahme: angenommen es kann jede aufsteigende Gradsequenz mit I) und II) realisiert werden
  Schritt:
  Für $(d_1,d_2,.....d_n, d_{n+1})$ gilt: $∑_i^{n+1} ​d_{i}​=2n$
-	 -> Entferne ein Blatt $(d_1,d_2,.....d_n, d_{n+1})$ -> $(d_2,.....d_n, d_{n+1})$ 
- Es gilt: $∑_{i=2}^{n+1}​ d_i​−1=2n−2$
+	 -> Entferne ein Blatt $(d_1,d_2,.....d_n, d_{n+1})$ -> $(d_2,.....d_n, d_{n+1})$ ,
 
-## Übungsblatt 6(Übung 2)
+
+ Es gilt: $2n-2+​ d_{n+1}−1=2(n+1)−2=2n$
+## Übungsblatt 6(Aufgabe 2)
 ### Aufgabenstellung
 ![[Pasted image 20241127144040.png]]
 ### Lösung

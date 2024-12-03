@@ -6,8 +6,8 @@
 Ein Pfadgraph ist also ein Graph, der eine einfache, lineare Struktur besitzt.
 ---
 ## Eigenschaften 
-1. **Knotenanzahl:** Ein Pfadgraph \( P_n \) hat \( n \) Knoten. 
-2. **Kantenanzahl:** Ein Pfadgraph \( P_n \) hat \( n-1 \) Kanten. 
+1. **Knotenanzahl:** Ein Pfadgraph \( $P_n$ \) hat \( n \) Knoten. 
+2. **Kantenanzahl:** Ein Pfadgraph \( $P_n$\) hat \( n-1 \) Kanten. 
 3. **Gradverteilung:** 
 - Zwei Endknoten mit Grad 1, 
 - Alle anderen Knoten (Zwischenknoten) mit Grad 2. 

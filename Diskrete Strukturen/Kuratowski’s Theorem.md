@@ -3,3 +3,7 @@
 - **Vorgehen**:
     1. Überprüfen, ob sich $K_5$​ oder $K_{3,3}$​ im Graphen finden lässt.
     2. Suchen nach möglichen Unterteilungen, bei denen zusätzliche Knoten entlang der Kanten eingefügt wurden. [hier](https://www.youtube.com/watch?v=AYDekpowl3E)
+# $K_5$
+![[Pasted image 20241203142357.png]]
+# $K_{3,3}$
+![[Pasted image 20241203142433.png]]

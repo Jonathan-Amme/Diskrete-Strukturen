@@ -1,4 +1,8 @@
-Graphen sind eine grundlegende mathematische Struktur, die verwendet wird, um Beziehungen zwischen Objekten zu modellieren. Sie bestehen aus: - **Knoten (Nodes, Vertices):** Die Objekte, die dargestellt werden. - **Kanten (Edges):** Die Verbindungen zwischen den Knoten. Graphen finden Anwendung in vielen Bereichen wie Informatik, Physik, Sozialwissenschaften und Verkehrsplanung. --- 
+Graphen sind eine grundlegende mathematische Struktur, die verwendet wird, um Beziehungen zwischen Objekten zu modellieren. Sie bestehen aus: 
+- **Knoten (Nodes, Vertices):** Die Objekte, die dargestellt werden.
+- **Kanten (Edges):** Die Verbindungen zwischen den Knoten. Graphen finden Anwendung in vielen Bereichen wie Informatik, Physik, Sozialwissenschaften und Verkehrsplanung.
+
+--- 
 
 # Arten von Graphen 
 1. **Ungerichteter Graph**: Die Kanten haben keine Richtung. Eine Verbindung zwischen zwei Knoten \(u\) und \(v\) wird durch eine ungeordnete Menge \(\{u, v\}\) dargestellt. 
@@ -6,8 +10,9 @@ Graphen sind eine grundlegende mathematische Struktur, die verwendet wird, um Be
 3. **Gewichteter Graph**: Jeder Kante ist ein Wert (z. B. Gewicht, Kosten) zugeordnet. 
 4. **Ungewichteter Graph**: Kanten haben keine zusätzlichen Werte.
 5. **Planarer Graph**: Ein Graph, der in einer Ebene gezeichnet werden kann, ohne dass sich Kanten schneiden
-6. [Eulerscher Graph](Euler-Kreis)
-7. [Hamiltonischer Graph](Hamilton-Kreis)
+6. [[Bipartiter Graph]]
+7. [Eulerscher Graph](Euler-Kreis)
+8. [Hamiltonischer Graph](Hamilton-Kreis)
 # Wichtige Begriffe
 **Grad eines Knotens**:  
         Die Anzahl der Kanten, die mit einem Knoten verbunden sind. Im gerichteten Graphen unterscheidet man:
