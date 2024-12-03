@@ -7,7 +7,7 @@
 
 ### 1. **Binäre Relation**
 
-Eine **binäre Relation** ist eine Relation zwischen den Elementen einer einzigen Menge A. Eine solche Relation ist eine Teilmenge von $A \times A$, also von Paaren aus A mit sich selbst.
+Eine [binäre Relation](VL5-binäreRelationen) ist eine Relation zwischen den Elementen einer einzigen Menge A. Eine solche Relation ist eine Teilmenge von $A \times A$, also von Paaren aus A mit sich selbst.
 
 #### Beispiel:
 

@@ -15,7 +15,7 @@ Graphen sind eine grundlegende mathematische Struktur, die verwendet wird, um Be
 8. [Hamiltonischer Graph](Hamilton-Kreis)
 # Wichtige Begriffe
 **Grad eines Knotens**:  
-        Die Anzahl der Kanten, die mit einem Knoten verbunden sind. Im gerichteten Graphen unterscheidet man:
+        Die Anzahl der Kanten, die mit einem Knoten verbunden sind. Die Grade eines Graphens lassen sich zu einer [Gradfolge](VL12-Gradfolgen) abbilden. Im gerichteten Graphen unterscheidet man:
             Eingangsgrad: Anzahl der eingehenden Kanten.
             Ausgangsgrad: Anzahl der ausgehenden Kanten.
 	    Für jede akkumulierte Gradzahl eines Graphen gilt das [[Handschlaglemma]]
