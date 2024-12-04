@@ -103,11 +103,13 @@ Gegeben d=(4,3,3,3,3):
 ### Aufgabenstellung(Übungsblatt 7/Aufgabe 2)
 ![[Pasted image 20241204143327.png]]
 ### Lösung
-a) (1,1,2,2,2)->(1,1,1,1)->(1,1)->()
-(1,1,1,1,2)->(1,1)->()
-(1,1,1,1)->(1,1)->()
-(1,2,2,3)->(1,1)->()
-
+a) (1,1,2,2,2,0)->(1,1,1,1,0,0)->(1,1,0,0,0,0)->(0,0,0,0,0,0)
+(1,1,1,1,2,0,0)->(1,1,0,0,0,0,0)->(0,0,0,0,0,0,0)
+![[Pasted image 20241204165352.png]]
+(1,1,1,1,0,0,0)->(1,1,0,0,0,0,0)->(0,0,0,0,0,0,0)
+![[Pasted image 20241204165210.png]]
+(1,2,2,3,0)->(1,1,0,0,0)->(0,0,0,0,0)
+![[Pasted image 20241204165458.png]]
 b)
 $D_1:$Summe der Grade ist 12 von n=6-> kein baum, da nicht 2(n-1)= 10 erfüllt ist
 $D_2:$Summe der Grade ist 12 von n=7-> baum, da 2(n-1)= 12 erfüllt ist
@@ -115,13 +117,10 @@ $D_3:$Summe der Grade ist 8 von n=5-> baum, da nicht 2(n-1)= 8 erfüllt ist
 $D_4:$Summe der Grade ist 16 von n=5-> kein baum, da nicht 2(n-1)= 8 erfüllt ist
 
 c) 
-da es nur 2 knoten des grades 4 gibt auf einen Grpahen mit 5 knoten müssen, die 4rer verbunden sein(n-1 größtmöglcihe gradanzahl, verbunden mit allen anderen knoten)
+da es nur 2 knoten des grades 4 gibt auf einen Graphen mit 5 knoten müssen, die 4rer verbunden sein(n-1 größtmögliche Gradanzahl, verbunden mit allen anderen knoten)
 beide knoten verbinden sich mit 2,3,3 nicht unterscheidbar
 
-d)
-
-
-
+d)Hakimi sagt nur über Realisierbarkeit aus nicht über Zyklen , Bäume usw
 # Eigenschaften von Graphen
 
 1. **Knotenanzahl ($∣V∣$)**

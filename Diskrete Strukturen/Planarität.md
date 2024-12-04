@@ -44,7 +44,7 @@ Für einen planaren Graphen gilt immer diese Beziehung. Wenn sie verletzt wird, 
 
 1. **Maximale Anzahl der Kanten in einem planaren Graphen**:
     
-    - Für einen planaren Graphen mit nn Knoten gilt:$∣E∣≤3∣V∣−6,wenn->n≥3.$
+    - Für einen planaren Graphen mit n Knoten gilt:$∣E∣≤3∣V∣−6,wenn->n≥3.$
     - Für einen planaren Graphen ohne Mehrfachkanten oder Schleifen (also ohne Parallel- oder Eigenkanten).
 2. **Dualer Graph**:
     
@@ -56,13 +56,13 @@ Für einen planaren Graphen gilt immer diese Beziehung. Wenn sie verletzt wird, 
 # Übungen
 ## Übung(Übungsblatt 7/ Aufgabe 3)
 ### Aufgabenstellung
-![[Pasted image 20241204145655.png]]
+
 ### Lösung
 $∣V∣=∑_{i=1}^k​∣V_i​∣$ 
 $∣E∣=∑_{i=1}^k​∣E_i∣​$
 
-$∣F∣=∑_{i=1}^k∣F_i∣−(k−1)$
-(k-1 die Flächen zwischen den Zusammenhangskomponenten)
+$∣F∣=∑_{i=1}^k∣F_i∣−k+1$
+(k-1, da bei jeder Zusammenhangskomponente die Umgebung mit gezählt wird aber alle Komponenten sich die Umgebung teilen)
 
 -> Einsetzen in die eulersche Formel für alle Komponenten
 $∑_{i=1}^k​(∣V_i​∣−∣E_i​∣+∣F_i​∣)=2k$
@@ -73,3 +73,17 @@ $∣V∣−∣E∣+(∣F∣+(k−1))=2k$
 ### Aufgabenstellung
 ![[Pasted image 20241204150850.png]]
 ### Lösung
+$4∣V∣=∑_{i=1}^n​∣deg(n)​∣$
+
+$2∣E∣=∑_{i=1}^n​∣deg(n)​∣$
+
+$∣F∣<=(2∣E∣+1)/5$
+
+$∣V∣ = 1/2 ∣E∣$
+$1/2∣E∣−∣E∣+∣F∣=2$
+
+$∣F∣=2+ 1/2∣E∣$
+
+in die dritte einsetzen
+
+(2+1/2|E|)<=2∣E∣/5+1/5 ->Widerspruch Links ist größer

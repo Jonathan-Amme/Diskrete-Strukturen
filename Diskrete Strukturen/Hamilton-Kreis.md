@@ -18,7 +18,7 @@
 
 ---
 
-### **Kriterien für Hamiltonkreise**
+### **Kriterien für Hamilton-Kreise**
 
 >Es gibt keine einfachen, notwendigen und hinreichenden Bedingungen wie bei Eulerkreisen. Dennoch gibt es hilfreiche Kriterien:
 
@@ -32,8 +32,8 @@
     
     (Auch dies ist eine hinreichende Bedingung.)
     
-3. **Hindernisse für Hamiltonkreise**:
-    
+3. **Hindernisse für Hamilton-Kreise**:
+    - bipartiter Graph muss gerade Anzahl an Knoten haben, Kreis->muss wieder auf dem selben Knoten enden
     - Der Graph enthält Brücken: Eine Brücke ist eine Kante, deren Entfernung den Graphen in zwei unverbundene Teile teilt.
     - Der Graph ist nicht stark zusammenhängend (in gerichteten Graphen).
 
@@ -47,7 +47,7 @@ es ist ein bipartiter Graph
 Menge $V:{1,3,5,7,11}$
 Menge $U:2,4,6,8,9,10$
 
-Anzahl der knoten ist ungerade somit ist kein hamilton kreis möglich
+Anzahl der knoten ist ungerade somit ist kein Hamilton-kreis möglich
 
 Bedingungen für $K_{n,m}$
 $(n+m) mod 2 =0, n>=1, m>=1$
