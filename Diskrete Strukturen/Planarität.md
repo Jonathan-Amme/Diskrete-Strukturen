@@ -52,3 +52,24 @@ Für einen planaren Graphen gilt immer diese Beziehung. Wenn sie verletzt wird, 
 3. **Färbungsproblem**:
     
     - Planare Graphen können immer mit **höchstens 4 Farben** so gefärbt werden, dass keine zwei benachbarten Knoten dieselbe Farbe haben (siehe [[Vier-Farben-Satz]]).
+
+# Übungen
+## Übung(Übungsblatt 7/ Aufgabe 3)
+### Aufgabenstellung
+![[Pasted image 20241204145655.png]]
+### Lösung
+$∣V∣=∑_{i=1}^k​∣V_i​∣$ 
+$∣E∣=∑_{i=1}^k​∣E_i∣​$
+
+$∣F∣=∑_{i=1}^k∣F_i∣−(k−1)$
+(k-1 die Flächen zwischen den Zusammenhangskomponenten)
+
+-> Einsetzen in die eulersche Formel für alle Komponenten
+$∑_{i=1}^k​(∣V_i​∣−∣E_i​∣+∣F_i​∣)=2k$
+$∣V∣−∣E∣+(∣F∣+(k−1))=2k$
+-> $∣V∣−∣E∣+∣F∣=k+1$
+
+## Übung(Übungsblatt/Aufgabe 4)
+### Aufgabenstellung
+![[Pasted image 20241204150850.png]]
+### Lösung

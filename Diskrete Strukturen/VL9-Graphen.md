@@ -99,6 +99,28 @@ Gegeben d=(4,3,3,3,3):
 2. $d_1=2$, ziehe 1 von den nächsten 2 Werten ab: $d=(1,0)$.
 3. $d_1=1$, ziehe 1 von den nächsten 1 Werten ab: $d=(0)$.
 4. Die Gradfolge ist realisierbar, da nur Nullen übrig bleiben.
+## Übungen
+### Aufgabenstellung(Übungsblatt 7/Aufgabe 2)
+![[Pasted image 20241204143327.png]]
+### Lösung
+a) (1,1,2,2,2)->(1,1,1,1)->(1,1)->()
+(1,1,1,1,2)->(1,1)->()
+(1,1,1,1)->(1,1)->()
+(1,2,2,3)->(1,1)->()
+
+b)
+$D_1:$Summe der Grade ist 12 von n=6-> kein baum, da nicht 2(n-1)= 10 erfüllt ist
+$D_2:$Summe der Grade ist 12 von n=7-> baum, da 2(n-1)= 12 erfüllt ist
+$D_3:$Summe der Grade ist 8 von n=5-> baum, da nicht 2(n-1)= 8 erfüllt ist
+$D_4:$Summe der Grade ist 16 von n=5-> kein baum, da nicht 2(n-1)= 8 erfüllt ist
+
+c) 
+da es nur 2 knoten des grades 4 gibt auf einen Grpahen mit 5 knoten müssen, die 4rer verbunden sein(n-1 größtmöglcihe gradanzahl, verbunden mit allen anderen knoten)
+beide knoten verbinden sich mit 2,3,3 nicht unterscheidbar
+
+d)
+
+
 
 # Eigenschaften von Graphen
 

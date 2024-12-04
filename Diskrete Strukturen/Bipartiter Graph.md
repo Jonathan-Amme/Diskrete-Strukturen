@@ -17,3 +17,6 @@ Es gibt keine Kanten, die zwei Knoten innerhalb derselben Menge verbinden.
 **Mathematische Darstellung:**  
 Ein bipartiter Graph $G=(U∪V,E)$ erfüllt:
 $∀(u,v)∈E, u∈U und v∈V$
+
+
+
