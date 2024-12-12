@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VL2-Beweise.md",
+                "file": "Kombinatorik.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VL2-Beweise"
+              "title": "Kombinatorik"
+            }
+          },
+          {
+            "id": "e2112197d5242bed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kombinatorik.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kombinatorik"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,17 +216,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc417a68934c7540",
+  "active": "e2112197d5242bed",
   "lastOpenFiles": [
-    "Planarität.md",
+    "Urnenmodell.md",
+    "Kombinatorik.md",
+    "Partition.md",
+    "Pasted image 20241212103213.png",
+    "Diskrete Strukturen.md",
     "VL9-Graphen.md",
+    "Relationen.md",
+    "Planarität.md",
+    "Hamilton-Kreis.md",
+    "VL2-Beweise.md",
     "Pasted image 20241204165458.png",
     "Pasted image 20241204165352.png",
     "Pasted image 20241204165322.png",
     "Pasted image 20241204165210.png",
     "Pasted image 20241204165206.png",
     "Pasted image 20241204165020.png",
-    "Hamilton-Kreis.md",
     "Kuratowski’s Theorem.md",
     "Bipartiter Graph.md",
     "Pasted image 20241204162201.png",
@@ -221,11 +242,9 @@
     "Euler-Kreis.md",
     "Bäume.md",
     "Handschlaglemma.md",
-    "Pasted image 20241204143327.png",
     "VL12-Gradfolgen.md",
     "VL5-binäreRelationen.md",
     "VL5-binäre.md",
-    "Relationen.md",
     "VL10-ungerichteteGraphen.md",
     "VL6-Äquivalenzrelationen.md",
     "VL4-Induktion.md",
@@ -235,10 +254,6 @@
     "Vier-Farben-Satz.md",
     "Pfadgraph.md",
     "Prim-Algorithmus.md",
-    "VL2-Beweise.md",
-    "Spannbaum.md",
-    "Kruskal-Algorithmus.md",
-    "Diskrete Strukturen.md",
     "Images",
     "GitHub",
     "Untitled.canvas"

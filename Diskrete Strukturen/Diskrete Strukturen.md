@@ -45,3 +45,7 @@ Eine Funktion $f:A→B$ kann als eine Menge von geordneten Paaren $(a,b)$ defini
 
 # 5. Graphen
 >[[VL9-Graphen]] sind eine grundlegende Struktur in der Mathematik und Informatik, die dazu dienen, Beziehungen zwischen Objekten darzustellen. Sie bestehen aus **Knoten** (auch als **Ecken** bezeichnet) und **Kanten**, die die Verbindungen zwischen den Knoten darstellen. Diese einfache, aber mächtige Struktur wird in einer Vielzahl von Anwendungsbereichen eingesetzt, darunter Netzwerktheorie, Datenstrukturen, Algorithmen, Verkehrsplanung und viele mehr.
+
+
+# 6.Kombinatorik
+Die [[Kombinatorik]] ist ein Teilgebiet der Mathematik, das sich mit der Untersuchung von Anordnungen, Auswahlmöglichkeiten und Kombinationen von Objekten beschäftigt. Sie wird in vielen Bereichen angewandt, wie etwa der Informatik, Statistik und Optimierung.
