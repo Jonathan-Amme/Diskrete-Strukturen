@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kombinatorik.md",
+                "file": "Urnenmodell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kombinatorik"
+              "title": "Urnenmodell"
             }
           }
         ],
@@ -218,8 +218,13 @@
   },
   "active": "e2112197d5242bed",
   "lastOpenFiles": [
-    "Urnenmodell.md",
+    "Pasted image 20241217154052.png",
+    "Pasted image 20241217144524.png",
+    "Pasted image 20241217143529.png",
+    "Pasted image 20241217143224.png",
     "Kombinatorik.md",
+    "Euler-Kreis.md",
+    "Urnenmodell.md",
     "Partition.md",
     "Pasted image 20241212103213.png",
     "Diskrete Strukturen.md",
@@ -236,10 +241,6 @@
     "Pasted image 20241204165020.png",
     "Kuratowski’s Theorem.md",
     "Bipartiter Graph.md",
-    "Pasted image 20241204162201.png",
-    "Pasted image 20241204150850.png",
-    "Pasted image 20241204145655.png",
-    "Euler-Kreis.md",
     "Bäume.md",
     "Handschlaglemma.md",
     "VL12-Gradfolgen.md",
@@ -253,7 +254,6 @@
     "VL1-LogikGrundlagen.md",
     "Vier-Farben-Satz.md",
     "Pfadgraph.md",
-    "Prim-Algorithmus.md",
     "Images",
     "GitHub",
     "Untitled.canvas"
